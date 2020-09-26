@@ -1,9 +1,0 @@
-@font-face {
-    font-family: "jazzfont";
-    src: url("../../fonts/Inkpen2ScriptStd.ttf");
-}
-
-.styled-nav {
-    font-family: "jazzfont";
-    font-size: xx-large;
-}
